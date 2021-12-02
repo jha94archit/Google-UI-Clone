@@ -1,0 +1,15 @@
+.button-body {
+  display: flex;
+  background-color: #f4f9f9;
+  height: 45px;
+  width: 200px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.button-body h4 {
+  font-size: 14px;
+  color: black;
+  font-weight: 400;
+}
